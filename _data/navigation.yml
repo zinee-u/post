@@ -1,0 +1,32 @@
+# main links
+main:
+  - title: "Repositories"
+    url: https://github.com/zinee-u
+  - title: "Monthly"
+    url: /month-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: algorithm
+    children:
+    - title: boj
+      url: /tags/#boj
+  - title: cloud
+    children:
+    - title: az-900
+      url: /tags/#az-900
+  - title: data science
+    children:
+    - title: R
+      url: /tags/#R
